@@ -3,4 +3,5 @@
 
    Datasource Setup <ds_welcome>
    rr_runningReports
+   api_report
    

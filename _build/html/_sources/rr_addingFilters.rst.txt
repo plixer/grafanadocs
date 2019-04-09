@@ -1,9 +1,11 @@
+.. _addingFilters:
+
 Adding Filters
-===================
+===============
 
 Scrutinizer offers an extremly powerful filtering engine which can also be leveraged by this Datasource. The easiest way to pass filters to the datasource is to first build them within Scrutinizer to get a feel for the format. 
 
-For example if I wanted to see what JSON would be needed to pass a filter for host 10.60.1.240 and application TCP 443 I could build the filters in Scrutinizer and then look at the restAPI JSON. 
+For example if I wanted to see what JSON would be needed to pass a filter for host 10.60.1.240 and application TCP 443 I could build the filters in Scrutinizer and then look at the :ref:`api_report`. 
 
 .. image:: images/addFilters.png
     :scale: 100%
@@ -17,3 +19,4 @@ Keep in mind the "sdfDips_0" will be igored. This references the device in Scrut
 
 .. image:: images/addfiltersnoDevice.png
     :scale: 100%
+
