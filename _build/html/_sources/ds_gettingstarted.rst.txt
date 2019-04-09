@@ -1,13 +1,9 @@
 Getting Started 
 ================
 
-The Scrutinizer Datasource must be cloned into the plugins directory on Grafana. 
+Currently I am working on having Grafana make this plugin available on their plugins repo. Once that is done I will update this documentation with the grafana-cli commands needed to install. 
 
-You can find this datasource on github 
-
-https://github.com/plixer/scrutinizer-datasource
-
-This datasource must be cloned into your plugins directory. 
+For now, you can install the plug in by simply cloning it into the plugins directory. Depending on the OS you are running, there is a different path. 
 
 **Path:** 
 
@@ -15,7 +11,6 @@ This datasource must be cloned into your plugins directory.
 * Windows : '*/data/plugins*' *
 
 When inside the directory issue the command. 
-
 
 
 *'git clone https://github.com/plixer/scrutinizer-datasource.git'*
