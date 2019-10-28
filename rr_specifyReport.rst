@@ -1,5 +1,3 @@
-.. _specifyReport:
-
 Specifying a Report
 ==========================
 
